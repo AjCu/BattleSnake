@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BattleSnakeCV</string>
+    <string name="boton_jugar">btj</string>
+    <string name="boton_puntaje">btp</string>
+    <string name="boton_creditos">btc</string>
+    <string name="logo">logo1</string>
+    <string name="preference_file_key">pfk</string>
+    <string name="campo1">c1</string>
+    <string name="campo2">c2</string>
+    <string name="campo3">c3</string>
+    <string name="campo4">c4</string>
+    <string name="campo5">c5</string>
+</resources>
